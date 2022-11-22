@@ -66,4 +66,4 @@
 
 **git branch <branch_name>** - создание ветки с названием branch_name
 
-another info
+**git branch -d <name>** - удалить ветку
